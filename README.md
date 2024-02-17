@@ -4,6 +4,8 @@
 
 > [Ig: @sumostrike.ds 🎥](https://www.instagram.com/sumostrike.ds/)
 
+> Projeto realizado em todo mês de setembro de 2023
+
 ### Circuito Elaborado 🔌
 ![Circuito dos Robôs](./assets/sumostrike.png)
 
